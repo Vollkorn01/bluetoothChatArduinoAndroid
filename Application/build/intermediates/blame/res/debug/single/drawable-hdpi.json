@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "J:\\projects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "J:\\projects\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "J:\\projects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "J:\\projects\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\projects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "J:\\projects\\BluetoothChat\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    }
+]

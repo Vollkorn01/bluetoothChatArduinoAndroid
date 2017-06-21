@@ -1,0 +1,4 @@
+#Mon Jun 19 13:37:42 CEST 2017
+base.0=J\:\\projects\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=J\:\\projects\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
